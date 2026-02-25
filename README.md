@@ -5,7 +5,7 @@
 ![GitHub Release](https://img.shields.io/github/v/release/Amateur-God/home-assistant-technitiumdns?include_prereleases&display_name=release&style=plastic&label=Beta%20Release)
 [![Discord](https://img.shields.io/discord/1032437213100777502)](https://discord.gg/4HcExnCHg2)
 
-# technitiumDNS Integration for Home Assistant
+# technitiumDNS Integration for Home Assistant - sjmiller
 
 This custom integration allows you to integrate technitiumDNS with Home Assistant, providing sensors for various DNS statistics.
 
